@@ -1353,18 +1353,4 @@ window.addEventListener("click", (event) => {
 // Safety Gate: Wait until the transparent image asset is 100% loaded before launching the game loop
 droneImage.onload = function() {
     gameLoop();
-};   
-    
-    
-    
-    
-    
-    
-  
- 
- 
- 
- 
- 
- 
- 
+};
